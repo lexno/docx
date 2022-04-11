@@ -4,7 +4,7 @@ The following constitutes the bare minimum required to replace text in DOCX docu
 ``` go
 
 import (
-	"github.com/nguyenthenguyen/docx"
+	"github.com/lexno/docx"
 )
 
 func main() {
